@@ -1,0 +1,12 @@
+directive @uppercase on FIELD_DEFINITION
+
+type Query {
+    getBooks: [Book]
+}
+
+type Book {
+    id: ID
+    name: String @uppercase
+    genre: String
+    author: String
+}
