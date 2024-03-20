@@ -1,6 +1,6 @@
 # GraphQL Custom Directive with Spring Boot
 
-This project demonstrates the implementation of a **GraphQL Custom Directive** using Spring Boot. We have created an uppercase directive that can be used to convert field values to uppercase.
+This project demonstrates the implementation of a **GraphQL Custom Directive** using Spring Boot. We are using an uppercase directive that can be used to convert field values to uppercase.
 
 ### What are GraphQL Directives?
 
