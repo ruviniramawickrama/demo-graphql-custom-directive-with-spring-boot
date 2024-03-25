@@ -10,9 +10,9 @@ Directives can be used to control various aspects of query execution, validation
 
 GraphQL supports both built-in and custom directives. Built-in directives include @skip, @include, @deprecated, and @cacheControl.
 
-Official Documentation: https://graphql.org/ for more details.
-GraphQL CRUD Operations: https://github.com/ruviniramawickrama/demo-graphql-with-spring-boot/
-GraphQL Custom Scalar: https://github.com/ruviniramawickrama/demo-graphql-custom-scalar-with-spring-boot/
+* Official Documentation: https://graphql.org/
+* GraphQL CRUD Operations: https://github.com/ruviniramawickrama/demo-graphql-with-spring-boot/
+* GraphQL Custom Scalar: https://github.com/ruviniramawickrama/demo-graphql-custom-scalar-with-spring-boot/
 
 ### Prerequisites
 Before running the application, make sure the following list is installed/configured on your machine:
